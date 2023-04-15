@@ -1,5 +1,5 @@
 # Image Denoiser
-It removes the noises from the images.
+It removes any noise from an image using Intel's OneAPI
 
 ### Developed by:
 
